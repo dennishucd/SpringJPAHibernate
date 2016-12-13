@@ -1,2 +1,2 @@
-# SpringJPAHibernate
-A example for integrating of Spring, JPA and Hibernate
+#deployment
+mvn assembly:assembly
